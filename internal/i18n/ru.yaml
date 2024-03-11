@@ -1,0 +1,27 @@
+delete: Удалить
+
+edit: Редактировать
+
+invalid_classroom_number: "Невалидный номер аудитории"
+invalid_teacher_name: "Невалидное имя"
+invalid_subject_name: "Невалидное название"
+
+
+failed_to_add_subject: "Не удалось добавить дисциплину"
+
+list_of_your_subjects: "Список ваших дисциплин"
+
+send_me_classroom_number: "Отправьте мне номер аудитории"
+send_me_teacher_name: "Отправте мне ФИО преподавателя"
+send_me_time: "Пожалуйста отправьте мне время начала занятия в формате HH:mm"
+send_me_subject_name: Отправьте мне название предмета
+start_message: Доступные команды /addSchedule, /next, /addReplacepent
+subject_added: "Дисциплина успешно добавлена"
+
+Monday: Понедельник
+Tuestay: Вторник
+Wendsday: Среда
+Thursday: Четверг
+Friday: Пятница
+Saturday: Суббота
+Sunday: Воскресенье

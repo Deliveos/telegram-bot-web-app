@@ -1,0 +1,10 @@
+app:
+  name: 'webappbot'
+  version: '1.0.0'
+
+logger:
+  log_level: 'debug'
+  rollbar_env: 'webappbot'
+
+postgres:
+  pool_max: 2

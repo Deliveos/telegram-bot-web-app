@@ -1,0 +1,26 @@
+delete: Delete
+
+edit: Edit
+
+invalid_classroom_number: "Invalid classroom number"
+invalid_teacher_name: "Invalid teacher name"
+invalid_subject_name: "Invalid subject name"
+
+failed_to_add_subject: "Failed to add subject"
+
+list_of_your_subjects: "List of your subjects"
+
+send_me_classroom_number: "Send me classroom number"
+send_me_teacher_name: "Send me teacher name"
+send_me_time: "Please send me time when the session will be started"
+send_me_subject_name: Please send me subject name
+start_message: I know commands like /addSchedule, /next, /addReplacepent
+subject_added: "Subject successfully added"
+
+Monday: Monday
+Tuestay: Tuestay
+Wendsday: Wendsday
+Thursday: Thursday
+Friday: Friday
+Saturday: Saturday
+Sunday: Sunday
